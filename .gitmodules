@@ -6,7 +6,7 @@
 	url = https://github.com/ONLYOFFICE/core.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/officeghost/server.git
 [submodule "dictionaries"]
 	path = dictionaries
 	url = https://github.com/ONLYOFFICE/dictionaries.git
